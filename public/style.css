@@ -1,0 +1,38 @@
+.jumbotron {
+    background-image: url("image/metal.jpg");
+    background-size: cover;
+    height: 700px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.jumbotron .display-4 {
+    padding-top: 200px;
+    margin-left: 520px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.jumbotron .lead {
+    margin-left: 520px;
+}
+.jumbotron hr {
+    margin-left: 520px;
+    width: 600px;
+}
+.jumbotron .btn {
+    margin-left: 520px;
+}
+
+.card {
+    width: 20rem;
+    margin-top: -150px;
+    margin-left: 50px;
+}
+.card .display-4 {
+    font-size: 35px;
+}
+
+hr {
+    width: 100px;
+    border-top: 3px solid #eaeaea;
+}
